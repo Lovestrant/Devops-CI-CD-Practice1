@@ -1,1 +1,2 @@
-This is git practice
+This is the second sentence
+This is the third sentence
